@@ -1,3 +1,5 @@
+[![Feature Requests](https://feathub.com/petterpanpan/blog?format=svg)](https://feathub.com/petterpanpan/blog)
+
 # blog
 ### 山合招聘
 我们的工作室的人才来自世界各地，各个行业的。他们有相同的愿望和理想来到我的工作室里，我们通过远程协助的模式，一起来头脑风暴，一起打造产品，一起运营它。这种在我们国家还不够普及，不过有一些公司已经开始做，但是做的不够好，我觉得还是很有市场的。
